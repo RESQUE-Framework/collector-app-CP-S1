@@ -205,7 +205,7 @@
             "title": "Publication type (check all that apply)",
             "options": [
                 {
-                    "id": "Empirical",
+                    "id": "EmpiricalQuantitative",
                     "text": "Empirical paper"
                 },
                 {
